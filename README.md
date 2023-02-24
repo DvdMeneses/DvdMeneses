@@ -4,7 +4,7 @@
 
 
 * 📚 Graduando Análise e desenvolvimento de Sistemas-UFRN
-*  Fazendo parte do futuro
+* 👨‍💻 Fazendo parte do futuro
 * 📫 E-mail de contato: david.meneses.cc@gmail.com
 
 ### Skills ⚡
