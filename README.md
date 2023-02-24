@@ -42,7 +42,7 @@
 
 ### Languages 🌍 
 
-* ### __Inglês (em curso)__
+* ### __Inglês__
     * Compreendo Razoavelmente.
     * Falo Razoavelmente.
     * Leio Bem.
