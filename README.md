@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1c2130&text=David%20Meneses&height=180&animation=twinkling&fontSize=50&fontAlignY=42&&fontColor=a9baae)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&text=David%20Meneses&height=180&animation=twinkling&fontSize=50&fontAlignY=42&&fontColor=0D1117)
 
-<a href="https://github.com/DvdMeneses"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=A8B9AD&background=FFFFFF00&width=520&height=30&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+David+Meneses!)](https://git.io/typing-svg"></a><br/>
+<a href="https://github.com/DvdMeneses"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=fafafa&background=FFFFFF00&width=520&height=30&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+David+Meneses!)](https://git.io/typing-svg"></a><br/>
 
 
 ### Dev em formação 👋
@@ -24,17 +24,9 @@
 
 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=DvdMeneses&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=DvdMeneses&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=DvdMeneses&show_icons=true" />
-</picture>
+
+![DvdMeneses's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvdMeneses&show_icons=true&bg_color=0D1117&hide_border=false&text_color=9e9e9e&title_color=FEFEFE&icon_color=43853D)
+
 
 
 ### Languages 🌍 
