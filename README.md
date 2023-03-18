@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&text=David%20Meneses&height=180&animation=twinkling&fontSize=50&fontAlignY=42&&fontColor=0D1117)
 
-<a href="https://github.com/DvdMeneses"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=fafafa&background=FFFFFF00&width=520&height=30&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+David+Meneses!)](https://git.io/typing-svg"></a><br/>
+<a href="https://github.com/DvdMeneses"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=fafafa&background=FFFFFF00&width=520&height=30&lines=Ol%C3%A1!+Muito+prazer%2C+meu+nome+%C3%A9+David+Meneses.)](https://git.io/typing-svg"></a><br/>
 
 
 ### Dev em formação 👋
