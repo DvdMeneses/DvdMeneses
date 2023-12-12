@@ -10,7 +10,7 @@
 * 📚 Graduando Análise e desenvolvimento de Sistemas-UFRN
 * 👨‍💻 Fazendo parte do futuro
 * 📫 E-mail de contato: david.meneses.cc@gmail.com
-* 🦗 Desenvovedor da caixa entomólogica virtual [Clique Aqui para ver !!](https://www.instagram.com/dv.d085/?next=%2F](https://caixaentomologica.netlify.app/))
+* 🦗 Desenvovedor da caixa entomólogica virtual [Clique Aqui para ver !!](https://caixaentomologica.netlify.app/)
   
 ### Skills ⚡
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
