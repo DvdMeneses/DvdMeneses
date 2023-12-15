@@ -30,8 +30,7 @@
 
 
 
-![DvdMeneses's GitHub stats](https://github-readme-stats.vercel.app/api?username=DvdMeneses&show_icons=true&bg_color=0D1117&hide_border=false&text_color=9e9e9e&title_color=FEFEFE&icon_color=43853D)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DvdMeneses&theme=apprentice)
 
 
 ### Languages 🌍 
