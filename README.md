@@ -13,15 +13,15 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um Desenvolvedor Full Stack e Mobile com foco na criação de aplicações escaláveis, arquiteturas seguras e soluções inovadoras. Com graduação laureada em Análise e Desenvolvimento de Sistemas pela UFRN[cite: 3] e atualmente cursando o Mestrado em Neuroengenharia no Instituto Santos Dumont (ISD)[cite: 3], procuro sempre unir o rigor científico às melhores práticas da engenharia de software.
+Sou um Desenvolvedor Full Stack e Mobile com foco na criação de aplicações escaláveis, arquiteturas seguras e soluções inovadoras. Com graduação laureada em Análise e Desenvolvimento de Sistemas pela UFRN e atualmente cursando o Mestrado em Neuroengenharia no Instituto Santos Dumont (ISD), procuro sempre unir o rigor científico às melhores práticas da engenharia de software.
 
-Atualmente, atuo no desenvolvimento de soluções complexas, desde SDKs de pagamento (Tap to Pay em iOS, JWT ES256, mTLS)[cite: 2] até plataformas integradas de gestão de saúde (Flutter/Spring Boot)[cite: 1, 3] e softwares científicos de código aberto aplicados à neurociência[cite: 8].
+Atualmente, atuo no desenvolvimento de soluções complexas, desde SDKs de pagamento (Tap to Pay em iOS, JWT ES256, mTLS) até plataformas integradas de gestão de saúde (Flutter/Spring Boot) e softwares científicos de código aberto aplicados à neurociência.
 
 ### 🚀 Experiência e Foco Atual
 
-- **Desenvolvimento Mobile:** Arquitetura de aplicações robustas em **Flutter** e **Swift (iOS)**, integrando comunicação segura (mTLS, JWT) e design patterns[cite: 1, 2].
-- **Backend & APIs:** Criação de APIs REST seguras e de alta performance utilizando **Java (Spring Boot)** e **Python**, com forte base em bancos de dados relacionais (PostgreSQL, Oracle)[cite: 1].
-- **Pesquisa & Inovação:** Desenvolvimento do *MarmoSync V3*, um ecossistema multimodal para neurociência usando Python, visão computacional e machine learning[cite: 5, 8].
+- **Desenvolvimento Mobile:** Arquitetura de aplicações robustas em **Flutter** e **Swift (iOS)**, integrando comunicação segura (mTLS, JWT) e design patterns.
+- **Backend & APIs:** Criação de APIs REST seguras e de alta performance utilizando **Java (Spring Boot)** e **Python**, com forte base em bancos de dados relacionais (PostgreSQL, Oracle).
+- **Pesquisa & Inovação:** Desenvolvimento do *MarmoSync V3*, um ecossistema multimodal para neurociência usando Python, visão computacional e machine learning.
 
 ---
 
@@ -51,10 +51,10 @@ Atualmente, atuo no desenvolvimento de soluções complexas, desde SDKs de pagam
 
 ### 🔬 Projetos em Destaque
 
-* 📱 **Plataforma Integrada de Gestão (CAURN):** Evolução e manutenção do ecossistema mobile e web para plano de saúde, utilizando Flutter e Spring Boot[cite: 1, 3].
-* 💳 **SDK de Pagamentos iOS:** Desenvolvimento de SDK em Swift integrando *Tap to Pay on iPhone* (ProximityReader), App Attest e bibliotecas em C/C++[cite: 2].
-* 🧠 **MarmoSync V3:** Software científico em Python para sincronização multimodal de dados (áudio, vídeo e eletrofisiologia) no estudo de primatas não humanos[cite: 5, 8].
-* 🦗 **[Caixa Entomológica Virtual](https://caixaentomologica.netlify.app/):** Aplicação interativa voltada para a educação e visualização de coleções entomológicas digitais[cite: 4].
+* 📱 **Plataforma Integrada de Gestão (CAURN):** Evolução e manutenção do ecossistema mobile e web para plano de saúde, utilizando Flutter e Spring Boot.
+* 💳 **SDK de Pagamentos iOS:** Desenvolvimento de SDK em Swift integrando *Tap to Pay on iPhone* (ProximityReader), App Attest e bibliotecas em C/C++.
+* 🧠 **MarmoSync V3:** Software científico em Python para sincronização multimodal de dados (áudio, vídeo e eletrofisiologia) no estudo de primatas não humanos.
+* 🦗 **[Caixa Entomológica Virtual](https://caixaentomologica.netlify.app/):** Aplicação interativa voltada para a educação e visualização de coleções entomológicas digitais.
 
 ---
 
